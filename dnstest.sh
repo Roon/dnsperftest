@@ -23,7 +23,7 @@ PROVIDERS="
 "
 
 # Domains to test. Duplicated domains are ok
-DOMAINS2TEST="www.google.com amazon.com facebook.com www.youtube.com www.reddit.com  wikipedia.org twitter.com gmail.com www.google.com whatsapp.com"
+DOMAINS2TEST="google.com youtube.com facebook.com baidu.com wikipedia.org reddit.com yahoo.com google.co.in qq.com amazon.com taobao.com twitter.com tmail.com google.co.jp vk.com instagram.com live.com sohu.com sina.com.cn jd.com weibo.com 360.cn google.de google.co.uk google.com.br google.fr google.ru yandex.ru netflix.com linkedin.com www.google.com amazon.com facebook.com www.youtube.com www.reddit.com  wikipedia.org twitter.com gmail.com www.google.com whatsapp.com"
 
 
 totaldomains=0
